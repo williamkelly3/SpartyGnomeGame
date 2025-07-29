@@ -26,5 +26,11 @@ This project was developed as part of a university coursework assignment to expl
 
 ---
 
-## 📁 Project Structure
+## 🧠 Key Takeaways
+
+- Practiced full game loop design and 2D rendering principles
+- Applied OOP principles such as inheritance and encapsulation
+- Gained experience using wxWidgets for cross-platform GUI/game development
+- Built a modular XML-based level loading system
+
 
